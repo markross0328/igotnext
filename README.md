@@ -34,3 +34,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+"I Got Next" is an app that helps organize and manage pickup basketball games. Users can create courts, join queues, and track team matchups in real-time. Team captains can build teams, add individual players from a singles list, and challenge others, ensuring smooth game flow and fun play. for a couple of seconds
